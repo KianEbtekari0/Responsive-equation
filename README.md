@@ -2,7 +2,7 @@
 
 ### You can use the following equation to help you do this easily:
 
-##### Equation: number(px) ➗ Monitor size ✖️ 100 ➗
+##### Equation: number(px) ➗ Monitor size ✖️ 100 
 ##### Example:  top: 20px  ➗   (1440px)   ✖️ 100
 
 ## Attention❗
